@@ -16,4 +16,4 @@ The primary goal of this project is to empower consumers with better decision-ma
 
 ## Conclusion
 
-This project serves as a comprehensive solution for understanding and predicting laptop prices in an increasingly complex market. Through the integration of machine learning and user-friendly web applications, we aim to deliver actionable insights that benefit both consumers and retailers alike.
+This project serves as a comprehensive solution for understanding and predicting laptop prices in an increasingly complex market. Through the integration of machine learning and user-friendly web applications, this project aims to deliver actionable insights that benefit both consumers and retailers alike.
