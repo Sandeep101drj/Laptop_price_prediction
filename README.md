@@ -6,7 +6,12 @@ This project aims to predict the prices of laptops based on various features usi
 Dataset included in the repository.
 
 ## Overview
-The laptop price prediction model leverages multiple machine learning algorithms, including Linear Regression, Ridge Regression, Lasso Regression, K-Nearest Neighbors, Decision Trees, Support Vector Machines, Ensemble Models (AdaBoost, Gradient Boosting, XGBoost, and Voting Regressor), and Random Forest. The dataset contains various features related to laptops, such as brand, processor type, RAM, storage, operating system, and more.
+The **Laptop Price Prediction Model** leverages machine learning to accurately forecast laptop prices based on key specifications and features, providing valuable insights for buyers and sellers alike. Using an extensive dataset of laptop specifications, this project examines factors influencing pricing, such as brand, processor, RAM, storage, and other technical attributes.
+
+Through data preprocessing, feature engineering, and advanced machine learning techniques, the model delivers reliable predictions. An interactive **Streamlit application** is included, allowing users to enter specific laptop features and receive a real-time price estimate, making this tool useful for informed purchasing and sales decisions. This project illustrates a comprehensive approach to predictive modeling and showcases the potential of data-driven insights in the consumer electronics market.
+
+## Problem Statement
+In today’s digital age, laptops have become an essential tool for both personal and professional use. However, the wide variety of laptop brands, configurations, and price points can make selecting the right laptop a challenging task for consumers. The lack of transparency and complexity in pricing models leaves consumers struggling to understand what factors significantly influence laptop prices.
 
 ## Objective
 The primary objective of this project is to build a robust predictive model that can accurately forecast laptop prices. This involves:
